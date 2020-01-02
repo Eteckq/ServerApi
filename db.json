@@ -1,8 +1,9 @@
 {
-   "accounts/all":[
+   "accounts":[
       {
          "accounts":[
             {
+               "id": 0,
                "created":"2020-01-01T20:22:41.189Z",
                "_id":"1",
                "username":"testUser",
@@ -11,6 +12,7 @@
                "__v":0
             },
             {
+               "id": 1,
                "created":"2020-01-02T00:46:17.111Z",
                "_id":"2",
                "username":"testUser2",
@@ -19,6 +21,7 @@
                "__v":0
             },
             {
+               "id": 2,
                "created":"2020-01-02T01:25:27.804Z",
                "_id":"3",
                "username":"Yohan",
