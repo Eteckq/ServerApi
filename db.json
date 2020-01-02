@@ -1,12 +1,47 @@
 {
-  "accounts": [
-    {"accounts":[{"created":"2020-01-01T20:22:41.189Z","_id":"5e0cff9a3afafd3be477ac81","username":"dzq","password":"dzq","email":"dzq","__v":0},{"created":"2020-01-02T00:46:17.111Z","_id":"5e0d3d661488dc1dd4b8bb4b","username":"dd","password":"dd","email":"dd","__v":0},{"created":"2020-01-02T01:25:27.804Z","_id":"5e0d469e6028cf21c89ce077","username":"dz","password":"dz","email":"dz","__v":0},{"created":"2020-01-02T01:36:18.277Z","_id":"5e0d4919a4ff732b042a2b48","username":"dzff","password":"df","email":"zz","__v":0}]}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "accounts.all":[
+      {
+         "accounts":[
+            {
+               "created":"2020-01-01T20:22:41.189Z",
+               "_id":"1",
+               "username":"testUser",
+               "password":"bite",
+               "email":"testUser@gmail.com",
+               "__v":0
+            },
+            {
+               "created":"2020-01-02T00:46:17.111Z",
+               "_id":"2",
+               "username":"testUser2",
+               "password":"yoyo",
+               "email":"trick_shooter@gmail.com",
+               "__v":0
+            },
+            {
+               "created":"2020-01-02T01:25:27.804Z",
+               "_id":"3",
+               "username":"Yohan",
+               "password":"admin",
+               "email":"yoyo@yohan.fr",
+               "__v":0
+            }
+         ]
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"some comment",
+         "postId":1
+      },
+      {
+         "id":2,
+         "body":"some comment",
+         "postId":1
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
